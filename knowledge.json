@@ -1,0 +1,40 @@
+{
+  "aadhaar": {
+    "overview": "You can update your Aadhaar address online using the UIDAI Self Service Update Portal if your mobile number is linked with Aadhaar.",
+    "steps": [
+      "Visit the UIDAI Self Service Update Portal.",
+      "Click on 'Update Address in Aadhaar'.",
+      "Log in using your Aadhaar number and OTP sent to your registered mobile number.",
+      "Enter your new address details.",
+      "Upload a valid Proof of Address document.",
+      "Submit the request and note the Update Request Number (URN) to track status."
+    ],
+    "documents": [
+      "Valid Proof of Address (POA)",
+      "Examples: Passport, Driving License, Bank Statement, Utility Bill"
+    ],
+    "official_website": "https://myaadhaar.uidai.gov.in",
+    "form_link": "https://myaadhaar.uidai.gov.in/"
+  },
+
+  "passport": {
+    "overview": "Indian passports are issued by the Ministry of External Affairs through Passport Seva.",
+    "steps": [
+      "Visit the Passport Seva portal.",
+      "Register for a new account.",
+      "Log in and select 'Apply for Fresh Passport'.",
+      "Fill the application form online.",
+      "Pay the passport application fee.",
+      "Schedule an appointment at a Passport Seva Kendra (PSK).",
+      "Visit the PSK with required documents.",
+      "Police verification may follow before passport issuance."
+    ],
+    "documents": [
+      "Proof of identity",
+      "Proof of address",
+      "Birth certificate or date of birth proof"
+    ],
+    "official_website": "https://www.passportindia.gov.in",
+    "form_link": "https://portal.passportindia.gov.in"
+  }
+}
